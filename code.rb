@@ -16,5 +16,3 @@ puts "Here are your " + adult_tickets + " adult tickets and " + child_tickets + 
 puts (2 * hamburger) + (2 * ice_cream_sandwich)
 puts (8 * funnel_cake) + hot_dog
 puts 3 * (hot_dog + hamburger + funnel_cake + ice_cream_sandwich)
-
-# comment for git
